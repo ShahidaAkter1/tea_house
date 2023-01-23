@@ -1,0 +1,10 @@
+.list .col-md-3 ul li{
+    list-style: none;
+}
+.button-color{
+    color: yellow;
+    font-size: 30px;
+}
+.font_size{
+    font-size: 75px;
+}
